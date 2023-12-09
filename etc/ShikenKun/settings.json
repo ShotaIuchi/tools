@@ -1,0 +1,43 @@
+{
+    "src" : {
+        "book" : {
+            "sheet" : 0
+        },
+        "row" : {
+            "start" : 2
+        },
+        "premise" : {
+            "start" : 2,
+            "end"   : 5
+        },
+        "procedure" : {
+            "start" : 2,
+            "end"   : 5
+        },
+        "confirmation" : {
+            "start" : 2,
+            "end"   : 5
+        },
+        "filter_level" : {
+            "enable"    : true,
+            "column"    : 1,
+            "input"     : 2
+        },
+        "filter_xxxxx" : {
+            "enable"    : false,
+            "column"    : 1,
+            "input"     : 9999
+        }
+    },
+    "dst" : {
+        "book" : {
+            "sheet" : 0
+        },
+        "row" : {
+            "start" : 3
+        },
+        "premise"       : 3,
+        "procedure"     : 4,
+        "confirmation"  : 5
+    }
+}
